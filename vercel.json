@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/ebay.js": {
+      "runtime": "edge"
+    }
+  }
+}
